@@ -1,1 +1,2 @@
-# blog-app
+
+This is my first project after learning mernstack
